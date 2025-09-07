@@ -1,1 +1,4 @@
 .env
+
+# Datasets
+clase15/dbpedia_10k.parquet
